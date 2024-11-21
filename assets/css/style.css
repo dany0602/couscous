@@ -1,4 +1,9 @@
-.splash-screen{
-border: 2px solid red;
-height: 30vh;
+.maintitle{
+    background-color: aqua;
+}
+footer{
+background: red;
+padding: 2rem;
+text-align: center; 
+height: 40vh;     
 }

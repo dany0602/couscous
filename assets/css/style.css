@@ -1,6 +1,10 @@
 .maintitle{
     background-color: aqua;
 }
+
+.maintitle{background: rgb(120, 120, 208);
+}
+
 footer{
 background: red;
 padding: 2rem;
